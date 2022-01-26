@@ -3,3 +3,4 @@
 !.idea/icon*.png
 *.iml
 build/
+.DS_Store
